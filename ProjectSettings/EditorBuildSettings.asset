@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 169078250d94a964d9e61d008cf24140
+  - enabled: 1
+    path: Assets/Scenes/GameMode.unity
+    guid: 27d1c3d2ed3282846acb5916aae737f6
+  - enabled: 1
+    path: Assets/Scenes/Difficulty.unity
+    guid: bff48de5d74daf54e8caf7ed9aae3ded
+  - enabled: 1
+    path: Assets/Scenes/GameModes/Tutorial.unity
+    guid: 6332bd8c288b93448a5ab3efef4c0098
+  - enabled: 1
+    path: Assets/Scenes/GameModes/Endless.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GameModes/Sandbox.unity
+    guid: a06aee2730c133c4bb40d1481ac578c1
+  m_configObjects: {}
